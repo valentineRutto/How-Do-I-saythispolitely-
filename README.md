@@ -1,2 +1,2 @@
 # How-Do-I-saythispolitely-
-webpage in html
+webpage of an artcle of the things i hate in html
